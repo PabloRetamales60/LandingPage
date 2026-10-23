@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\shared\\__hero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\shared\\__hero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\shared\\__header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\shared\\__header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\shared\\__login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\shared\\__login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\wwwroot\\landingpage\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:wwwroot\\landingpage\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\shared\\__navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\shared\\__navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|c:\\sistemaventa_asp.net_core_mvc\\asp.net-landing-page\\pages\\shared\\__about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|LandingPage.csproj|solutionrelative:pages\\shared\\__about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 345,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\wwwroot\\landingpage\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\landingpage\\css\\style.css",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\wwwroot\\landingpage\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\landingpage\\css\\style.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-22T01:22:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "__Hero.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Hero.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__Hero.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Hero.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__Hero.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-22T01:09:36.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "__Header.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Header.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__Header.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Header.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__Header.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-22T01:09:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "__Login.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__Login.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Login.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__Login.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T00:28:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-22T00:55:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-22T00:56:59.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T00:57:07.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "__Navbar.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Navbar.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__Navbar.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__Navbar.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__Navbar.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T00:39:38.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-17T00:30:59.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T00:28:59.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\About.cshtml",
+              "RelativeToolTip": "Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T00:28:58.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "__About.cshtml",
+              "DocumentMoniker": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__About.cshtml",
+              "ToolTip": "C:\\SistemaVenta_ASP.NET_CORE_MVC\\ASP.NET-Landing-Page\\Pages\\Shared\\__About.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-17T00:28:59.689Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 345,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

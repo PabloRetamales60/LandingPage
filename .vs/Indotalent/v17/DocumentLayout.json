@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\10\\source\\repos\\ASP.NET-Landing-Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|Indotalent.csproj|c:\\users\\10\\source\\repos\\asp.net-landing-page\\pages\\shared\\__features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|Indotalent.csproj|solutionrelative:pages\\shared\\__features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|Indotalent.csproj|c:\\users\\10\\source\\repos\\asp.net-landing-page\\pages\\shared\\__factcounter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75CED786-7B9C-4A62-82E1-39F97907BB9F}|Indotalent.csproj|solutionrelative:pages\\shared\\__factcounter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "__Features.cshtml",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\ASP.NET-Landing-Page\\Pages\\Shared\\__Features.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__Features.cshtml",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\ASP.NET-Landing-Page\\Pages\\Shared\\__Features.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__Features.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T17:21:47.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "__FactCounter.cshtml",
+              "DocumentMoniker": "C:\\Users\\10\\source\\repos\\ASP.NET-Landing-Page\\Pages\\Shared\\__FactCounter.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\__FactCounter.cshtml",
+              "ToolTip": "C:\\Users\\10\\source\\repos\\ASP.NET-Landing-Page\\Pages\\Shared\\__FactCounter.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\__FactCounter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T17:19:26.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
